@@ -26,7 +26,9 @@ This solution starts with understanding how this is achieved.
 TBD
 
 ### Using EDC data with AWS Sagemaker
-TBD
+[Creasting manifest files for AWS Sagemaker](https://github.com/nasa-esdswg-ml/edc-notebooks/blob/main/Sagemaker/data-preparation.ipynb)
+
+[Sagemaker model training](https://github.com/nasa-esdswg-ml/edc-notebooks/blob/main/Sagemaker/training.ipynb)
 
 ## Measure
 - Cost of using ML services and tooling with EDC data and services
@@ -41,7 +43,7 @@ Tutorial notebook(s) showing how to use EDC data and services with ML tooling an
 | EDC S3 data access with auto-refreshing STS tokens | https://github.com/nasa-esdswg-ml/edc-notebooks/blob/main/s3-access-beyond-one-hour.ipynb | Complete |
 | EDC S3 data access with auto-refreshing STS tokens |https://github.com/nasa-esdswg-ml/edc-notebooks/blob/main/s3-access-beyond-one-hour.ipynb	| Complete |
 | EDC HTTPS data access	| https://github.com/nasa-esdswg-ml/edc-notebooks/blob/main/https-access.ipynb |	Complete |
-| ML data preparation: Using EDC data to create an Augmented Manifest File | https://github.com/nasa-esdswg-ml/edc-notebooks/blob/main/Sagemaker/data-preparation.ipynb	| Needs to be documented and parameterized |
+| ML data preparation: Using EDC data to create an Augmented Manifest File | https://github.com/nasa-esdswg-ml/edc-notebooks/blob/main/Sagemaker/data-preparation.ipynb	| Complete |
 | Sagemaker training | https://github.com/nasa-esdswg-ml/edc-notebooks/blob/main/Sagemaker/training.ipynb | Needs to be documented and parameterized |
 | Sagemaker endpoint creation | TBD	| Not started |
 | EC2 training | TBD | Not started |
