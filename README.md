@@ -16,11 +16,11 @@ This solution starts with understanding how this is achieved.
   and EDC data and services
 
 ### Accessing EDC data with Jupyter Notebooks and python
-[HTTPS access to data within EDC](https://github.com/nasa-esdswg-ml/edc-notebooks/blob/main/https-access.ipynb)
+[HTTPS access to data within EDC](https://github.com/nasa-esdswg-ml/edc-notebooks/blob/main/EDC%20Data%20Access/https-access.ipynb)
 
-[S3 in-region access to data within EDC](https://github.com/nasa-esdswg-ml/edc-notebooks/blob/main/s3-access.ipynb)
+[S3 in-region access to data within EDC](https://github.com/nasa-esdswg-ml/edc-notebooks/blob/main/EDC%20Data%20Access/s3-access.ipynb)
 
-[S3 in-region access to data within EDC for more than one hour](https://github.com/nasa-esdswg-ml/edc-notebooks/blob/main/s3-access-beyond-one-hour.ipynb)
+[S3 in-region access to data within EDC for more than one hour](https://github.com/nasa-esdswg-ml/edc-notebooks/blob/main/EDC%20Data%20Access/s3-access-beyond-one-hour.ipynb)
 
 ### Accessing EDC data with EC2
 TBD
@@ -39,10 +39,10 @@ Tutorial notebook(s) showing how to use EDC data and services with ML tooling an
 
 | Task      | Location | Status |
 | --------- | -------- | -------|
-| EDC S3 data access      | https://github.com/nasa-esdswg-ml/edc-notebooks/blob/main/s3-access.ipynb       | Complete |
-| EDC S3 data access with auto-refreshing STS tokens | https://github.com/nasa-esdswg-ml/edc-notebooks/blob/main/s3-access-beyond-one-hour.ipynb | Complete |
+| EDC S3 data access      | https://github.com/nasa-esdswg-ml/edc-notebooks/blob/main/EDC%20Data%20Access/s3-access.ipynb       | Complete |
+| EDC S3 data access with auto-refreshing STS tokens | https://github.com/nasa-esdswg-ml/edc-notebooks/blob/main/EDC%20Data%20Access/s3-access-beyond-one-hour.ipynb | Complete |
 | EDC S3 data access with auto-refreshing STS tokens |https://github.com/nasa-esdswg-ml/edc-notebooks/blob/main/s3-access-beyond-one-hour.ipynb	| Complete |
-| EDC HTTPS data access	| https://github.com/nasa-esdswg-ml/edc-notebooks/blob/main/https-access.ipynb |	Complete |
+| EDC HTTPS data access	| https://github.com/nasa-esdswg-ml/edc-notebooks/blob/main/EDC%20Data%20Access/https-access.ipynb |	Complete |
 | ML data preparation: Using EDC data to create an Augmented Manifest File | https://github.com/nasa-esdswg-ml/edc-notebooks/blob/main/Sagemaker/data-preparation.ipynb	| Complete |
 | Sagemaker training | https://github.com/nasa-esdswg-ml/edc-notebooks/blob/main/Sagemaker/training.ipynb | Needs to be documented and parameterized |
 | Sagemaker endpoint creation | TBD	| Not started |
